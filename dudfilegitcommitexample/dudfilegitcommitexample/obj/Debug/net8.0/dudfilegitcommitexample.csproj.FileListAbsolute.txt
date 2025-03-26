@@ -12,3 +12,4 @@ C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Deb
 C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.pdb
 C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.genruntimeconfig.cache
 C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\ref\dudfilegitcommitexample.dll
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.sourcelink.json
