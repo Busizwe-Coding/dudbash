@@ -1,0 +1,14 @@
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\bin\Debug\net8.0\dudfilegitcommitexample.exe
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\bin\Debug\net8.0\dudfilegitcommitexample.deps.json
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\bin\Debug\net8.0\dudfilegitcommitexample.runtimeconfig.json
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\bin\Debug\net8.0\dudfilegitcommitexample.dll
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\bin\Debug\net8.0\dudfilegitcommitexample.pdb
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.AssemblyInfo.cs
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.dll
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\refint\dudfilegitcommitexample.dll
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.pdb
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\dudfilegitcommitexample.genruntimeconfig.cache
+C:\Users\me\source\repos\dudfilegitcommitexample\dudfilegitcommitexample\obj\Debug\net8.0\ref\dudfilegitcommitexample.dll
