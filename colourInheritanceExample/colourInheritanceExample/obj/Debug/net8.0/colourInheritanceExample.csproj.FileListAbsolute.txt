@@ -1,0 +1,15 @@
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\bin\Debug\net8.0\colourInheritanceExample.exe
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\bin\Debug\net8.0\colourInheritanceExample.deps.json
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\bin\Debug\net8.0\colourInheritanceExample.runtimeconfig.json
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\bin\Debug\net8.0\colourInheritanceExample.dll
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\bin\Debug\net8.0\colourInheritanceExample.pdb
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.AssemblyInfo.cs
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.sourcelink.json
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.dll
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\refint\colourInheritanceExample.dll
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.pdb
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\colourInheritanceExample.genruntimeconfig.cache
+C:\Users\me\source\repos\colourInheritanceExample\colourInheritanceExample\obj\Debug\net8.0\ref\colourInheritanceExample.dll
