@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dudfilegitcommitexample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f34864d6447ec0fde8fc4ca1abb0b1fcffc3992")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd29d76723c13f850075d9475dbb1d962388326")]
 [assembly: System.Reflection.AssemblyProductAttribute("dudfilegitcommitexample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dudfilegitcommitexample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
